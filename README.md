@@ -24,9 +24,12 @@
 | !summon      | Summon something mysterious                   |                                  |
 | !thor        | Spin Thor's hammer on the waitlist            | !thor                            |
 | !trivia      | Trivia question                               | !trivia [answer]                 |
+| !join        | Join the roulette                             |                                  |
+| !leave       | Leave the roulette                            |                                  |
 
 #### Only for DJs and higher:
 | Command  | Description                 |
 | :------- | :-------------------------- |
 | !link    | Show the current track link |
 | !mediaid | Show the current track ID   |
+| roulette | Open the roulette           |
