@@ -7,7 +7,7 @@
 | !topsongs    | Leaderboard for top wooted tracks             |                                  |
 | !topwoot     | Leaderboard for woots given                   |                                  |
 | !8ball       | Ask a question                                | !8ball <question>                |
-| !coin        | Flip a coin.                                  |                                  |
+| !coin        | Flip a coin                                  |                                  |
 | !cookie      | Give someone a cookie                         | !cookie [user]                   |
 | !dice        | Roll a die                                    | !dice [sides]                    |
 | !fact        | Share a fun fact                              |                                  |
