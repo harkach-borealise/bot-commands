@@ -26,7 +26,7 @@
 | !trivia      | Trivia question (add the word answer to see the right answer) | !trivia <answer>                 |
 | !join        | Join the roulette                                             |                                  |
 | !leave       | Leave the roulette                                            |                                  |
-| !genre       | Gives you an idea of what kind of track to play next          |                                  |
+| !play        | Gives you an idea of what kind of track to play next          | also !track or !genre            |
 
 #### Only for DJs and higher:
 | Command  | Description                 |
