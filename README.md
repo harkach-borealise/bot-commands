@@ -1,4 +1,4 @@
-# bot-commands
+# Commands for the harkach room bot at https://app.borealise.com/room/harkach
 
 | Command      | Description                                           | Usage                            |
 | :----------- | :---------------------------------------------------- | :------------------------------- |
