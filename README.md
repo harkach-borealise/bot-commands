@@ -27,6 +27,7 @@
 | !join        | Join the roulette                                             |                                  |
 | !leave       | Leave the roulette                                            |                                  |
 | !play        | Gives you an idea of what kind of track to play next          | also !track or !genre            |
+| !story       | Sends a random genre story                                    | !story                           |
 
 #### Only for DJs and higher:
 | Command  | Description                 |
