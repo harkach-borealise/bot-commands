@@ -35,3 +35,8 @@
 | !link    | Show the current track link |
 | !mediaid | Show the current track ID   |
 | !roulette | Open the roulette          |
+
+#### Only for Bouncers and higher:
+| Command  | Description                 | Usage           |
+| :------- | :-------------------------- | :-------------- |
+| !weather | Show the weather for a city | !weather [city] |
