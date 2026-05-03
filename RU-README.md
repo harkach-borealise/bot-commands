@@ -36,3 +36,9 @@
 | !link     | Показать ссылку на текущий трек |
 | !mediaid  | Показать ID текущего трека      |
 | !roulette | Запустить рулетку               |
+
+#### Only for Bouncers and higher:
+
+| Command  | Description                 | Usage           |
+| :------- | :-------------------------- | :-------------- |
+| !weather | Show the weather for a city | !weather [city] |
